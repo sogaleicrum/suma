@@ -23,7 +23,6 @@ public class SumaDeDosNumeros {
         num2= s.nextInt();
         sum = num1+num2;
         System.out.println("La suma de los nuemero es: "+ sum);
-          System.out.println("esta linea es agregada desde github, hotfix");
       
     }
     
